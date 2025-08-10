@@ -9,6 +9,7 @@
     - For image using path as string, render it later  
 
 > code:  
-[c++ Code](Cur_studies/System-Design/Low_Level_Design/C++_code/googleDocs.cpp)
+[c++ Code](Cpp/googleDocs.cpp)
 
-![Google Docs UML Diagram](Cur_studies/System-Design/Low_Level_Design/UML/googleDocs.drawio.svg)
+## UML Diagram 
+![Google Docs UML Diagram](UML/googleDocs.drawio.svg)
