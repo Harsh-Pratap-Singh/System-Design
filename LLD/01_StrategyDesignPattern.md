@@ -46,4 +46,5 @@ We prefer **composition** over **inheritance** because:
 
 ---
 
-## **Diagram**
+## UML Diagram 
+![Google Docs UML Diagram](UML/01_StrategyDesignPattern.drawio.svg)
