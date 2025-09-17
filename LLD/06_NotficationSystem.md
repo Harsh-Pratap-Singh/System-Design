@@ -394,5 +394,6 @@ Showing popup:
 │  └─────────────────┘  └─────────────────┘  └─────────────────┘  │
 └─────────────────────────────────────────────────────────────────┘
 ```
+![Notification System UML](https://github.com/adityatandon15/LLD/blob/main/Lecture%2014/UML.jpeg?raw=true)
 
 This notification system demonstrates how multiple design patterns can work together to create a robust, extensible, and maintainable solution for complex software requirements.
